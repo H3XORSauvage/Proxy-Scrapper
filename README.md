@@ -135,7 +135,7 @@ Modifiez `config.json` pour :
 
 ```
 proxy_scrapper/
-├── TkinderProxy.py           # Script principal ultra-avancé
+├── ScProxy.py                # Script principal
 ├── fast_proxy_validator.py   # Validateur ultra-rapide
 ├── config.json               # Configuration externalisée
 ├── requirements.txt          # Dépendances Python
@@ -179,7 +179,7 @@ proxy_scrapper/
 - Sauvegarde des proxys déjà validés
 - Messages informatifs sur l'état
 
-## 🎉 Avantages
+## Avantages???
 
 - ✅ **Contrôle total** : Interruption à la demande
 - ✅ **Performance optimale** : Validation ultra-rapide
